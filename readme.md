@@ -16,11 +16,11 @@ LMS-Laravel is a Learning Management System (or LMS) that facilitates the creati
 As the name suggests, LMS-laravel is built on the latest Laravel framework, and uses various open source packages.
 This application is still in development, if you want to collaborate on the development, send us an email: 
 ```
-Kâmil: crypto.engineer216@gmail.com
+Emil: crypto.engineer216@gmail.com
 ```
 
 ### Installation
-* Run `git clone https://github.com/olaf0926/LMS-Laravel.git LMS-Laravel`
+* Run `git clone https://github.com/olaf0926/LMS-Laravel.git`
 * `cd LMS-Laravel` 
 * Run `composer install` (install composer beforehand)
 * From the projects root run `cp .env.example .env`
