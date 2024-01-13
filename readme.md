@@ -20,7 +20,7 @@ Kâmil: crypto.engineer216@gmail.com
 ```
 
 ### Installation
-* Run `git clone https://github.com/LMS-Laravel/LMS-Laravel.git LMS-Laravel`
+* Run `git clone https://github.com/olaf0926/LMS-Laravel.git LMS-Laravel`
 * `cd LMS-Laravel` 
 * Run `composer install` (install composer beforehand)
 * From the projects root run `cp .env.example .env`
